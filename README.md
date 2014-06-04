@@ -1,2 +1,2 @@
-loco4lu
+X3 Litcube's Universe Map Rework
 =======
