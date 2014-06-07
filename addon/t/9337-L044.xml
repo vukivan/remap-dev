@@ -253,7 +253,7 @@
  <t id="1021013">Rhy's Clouds</t>
  <t id="1021014">Tharka's Sun</t>
  <t id="1021016">Althes</t>
- <t id="1021018">{7,20004}(Gaian Star PIRATE SECTOR 17-9)</t>
+ <t id="1021018">Vestibule of Creation</t>
  <t id="1021019">Mercenaries' Rift</t>
  <t id="1021020">Maelstrom</t>
  <t id="1021101">{7,30002}(Weaver's Tempest YAKI CORE SECTOR 0-10)</t>
@@ -267,9 +267,10 @@
  <t id="1021114">Aldrin</t>
  <t id="1021115">{7,1021114} {1951,340113}(Aldrin 2)</t>
  <t id="1021116">Megnir</t>
- <t id="1021117">Segaris</t>
- <t id="1021118">{7,30064}(Xenon Sector)</t>
- <t id="1021119">Lost Order</t>
+ <t id="1021117">Emperor's Wisdom</t>
+ <t id="1021118">Duke's Vision</t>
+ <t id="1021119">Clarity's End</t>
+ <t id="1021120">Patriarch's Retreat</t>
  <t id="1021202">Rhy's Crusade</t>
  <t id="1021203">Rhy's Desire</t>
  <t id="1021204">Ministry of Finance</t>
@@ -281,7 +282,9 @@
  <t id="1021210">Home of Opportunity</t>
  <t id="1021215">{7,30061}</t>
  <t id="1021217">{7,30063} {1951,340106}{1951,340112}{1951,340114}(Kha'ak Sector 931)</t>
- <t id="1021218">{7,1020000}</t>
+ <t id="1021218">Preacher's Void</t>
+ <t id="1021219">Third Redemption</t>
+ <t id="1021220">Cho's Defeat</t>
  <t id="1021303">Family Rhy</t>
  <t id="1021304">{7,30033}(Wretched Skies PIRATE/BORON/SPLIT SECTOR 3-12)</t>
  <t id="1021305">{7,30015}(The Shallows BORON/SPLIT SECTOR 4-12)</t>
@@ -293,7 +296,11 @@
  <t id="1021313">{7,30023}(Perpetual Sin PARANID/KHAAK SECTOR 12-12)</t>
  <t id="1021315">{7,30063} {1951,340107}{1951,340111}{1951,340114}(Kha'ak Sector 841)</t>
  <t id="1021316">{7,30061}</t>
- <t id="1021319">{7,30054}(Bright Profit TELADI SECTOR 18-12)</t>
+ <t id="1021317">Duke's Domain</t>
+ <t id="1021318">Empire's Edge</t>
+ <t id="1021319">Perdition's End</t>
+ <t id="1021320">Patriarch's Keep</t>
+ <t id="1021321">Family Whi</t>
  <t id="1021401">Depths of Silence</t>
  <t id="1021402">Dark Waters</t>
  <t id="1021403">Reservoir of Tranquillity</t>
@@ -306,7 +313,9 @@
  <t id="1021416">{7,30063} {1951,340106}{1951,340113}{1951,340109}(Kha'ak Sector 927)</t>
  <t id="1021417">{7,30061}</t>
  <t id="1021418">{7,30032}(Sanctity of Corruption TELADI SECTOR 17-13)</t>
- <t id="1021419">{7,30053}(Company Strength TELADI SECTOR 18-13)</t>
+ <t id="1021419">Gaian Star</t>
+ <t id="1021420">Mercenaries' Rift</t>
+ <t id="1021421">Maelstrom</t>
  <t id="1021502">Shining Currents</t>
  <t id="1021503">Great Reef</t>
  <t id="1021506">Ceo's Doubt</t>
@@ -318,6 +327,7 @@
  <t id="1021513">{7,30023}</t>
  <t id="1021518">{7,30012}(Queen's Retribution BORON SECTOR 17-14)</t>
  <t id="1021519">{7,30030}(Hollow Infinity BORON SECTOR 18-14)</t>
+ <t id="1021520">Lost Order</t>
  <t id="1021603">Mists of Elysium</t>
  <t id="1021604">{7,1020000} {12,112}</t>
  <t id="1021608">Emperor's Pride</t>
