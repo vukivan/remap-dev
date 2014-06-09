@@ -52,8 +52,8 @@
  <t id="30063">Kha'ak Sector</t>
  <t id="30064">Xenon Sector</t>
  <t id="1020000">Unknown Sector</t>
- <t id="1020101">Kingdom End</t>
- <t id="1020102">Rolk's Drift</t>
+ <t id="1020101">Kho's Vengance</t>
+ <t id="1020102">Brennan's Memorial</t>
  <t id="1020103">Queen's Space</t>
  <t id="1020104">Menelaus' Frontier</t>
  <t id="1020105">Ceo's Buckzoid</t>
@@ -68,8 +68,8 @@
  <t id="1020120">Xenon Sector 596</t>
  <t id="1020121">{7,1020000} {12,123}</t>
  <t id="1020122">{17,10821} {12,110}</t>
- <t id="1020201">Three Worlds</t>
- <t id="1020202">Power Circle</t>
+ <t id="1020201">Arcturus Prime</t>
+ <t id="1020202">Eye of Colossus</t>
  <t id="1020203">Antigone Memorial</t>
  <t id="1020204">Rolk's Fate</t>
  <t id="1020205">Profit Share</t>
@@ -91,8 +91,8 @@
  <t id="1020221">{7,1023000}</t>
  <t id="1020222">{17,10531} {12,109}</t>
  <t id="1020223">{17,10431} {12,108}</t>
- <t id="1020301">Cloudbase North West</t>
- <t id="1020302">Herron's Nebula</t>
+ <t id="1020301">Starkiller's Clan</t>
+ <t id="1020302">Pilgrim's Relay</t>
  <t id="1020303">Kuiper Belt</t>
  <t id="1020304">Pluto</t>
  <t id="1020305">Neptune</t>
@@ -114,7 +114,7 @@
  <t id="1020321">{7,30052}</t>
  <t id="1020322">{17,10231} {12,106}</t>
  <t id="1020323">{17,10321} {12,107}</t>
- <t id="1020401">Ringo Moon</t>
+ <t id="1020401">Starkiller's Hideout</t>
  <t id="1020402">Family Zein</t>
  <t id="1020403">Family Ryk</t>
  <t id="1020404">Oort Cloud</t>
@@ -135,7 +135,7 @@
  <t id="1020420">{17,10261} {12,101}</t>
  <t id="1020421">{17,10331} {12,102}</t>
  <t id="1020422">{17,10191} {12,105}</t>
- <t id="1020501">Red Light</t>
+ <t id="1020501">Unclaimed Sector</t>
  <t id="1020502">Y Gamma</t>
  <t id="1020503">Rhonkar's Trial</t>
  <t id="1020504">Family Kao</t>
@@ -383,8 +383,8 @@
  <t id="1021812">Mines of Fortune</t>
  <t id="1021813">Xenon Sector 598</t>
  <t id="1021814">Atreus' Clouds</t>
- <t id="1021815">Saturn 2</t>
- <t id="1021816">Saturn 3</t>
+ <t id="1021815">Three Moons</t>
+ <t id="1021816">City in Space</t>
  <t id="1021817">Blue Profit</t>
  <t id="1021818">Sanctity of Corruption</t>
  <t id="1021819">Company Strength</t>
@@ -395,7 +395,7 @@
  <t id="1021910">Homily of Perpetuity</t>
  <t id="1021913">Xenon Sector 627</t>
  <t id="1021914">Farpoint</t>
- <t id="1021915">Jupiter 2</t>
+ <t id="1021915">Thor's Might</t>
  <t id="1021916">Accretion Disc</t>
  <t id="1021917">Ceo's Sprite</t>
  <t id="1021918">Eighteen Billion</t>
@@ -406,8 +406,8 @@
  <t id="1022012">Xenon Sector 695</t>
  <t id="1022013">Xenon Core 023</t>
  <t id="1022014">Argon Sector M148</t>
- <t id="1022015">Titan</t>
- <t id="1022016">Uranus 3</t>
+ <t id="1022015">Tyrianis Prime</t>
+ <t id="1022016">Alliance's Edge</t>
  <t id="1022017">Company Pride</t>
  <t id="1022018">Ianamus Zura</t>
  <t id="1022019">Y Alpha</t>

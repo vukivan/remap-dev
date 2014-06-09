@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<language id="44">
+
+  <!--
+  <page id="2008" title="Script Cmd Names" descr="">
+    <t id="661">COMMAND_PHANONCORPREPORT</t>
+  </page>
+
+  <page id="2010" title="Script Cmd Names" descr="">
+    <t id="661">Hire, send spy to Phanon Corp.</t>
+  </page>
+
+  <page id="2011" title="Script Cmd Shorts" descr="">
+    <t id="661">SendSpyToPhanonCorp</t>
+  </page>
+  -->
+
+
+  <page id="8384" title="Litcube's Rival Corporation Artificial Life" descr="">
+    <t id="1">Litcube's Phanon Corporation</t>
+    <t id="2">Phanon</t>
+
+    <t id="15">[author][green]Phanon Corporation[/green][/author]Dear %s,\n\nOn Behalf of the Phanon Corporation, I, Zalex Yhulan would express our deepest regrets over your previous actions.  Know that the Phanon Corporation will return soon with doubled efforts.</t>
+    <t id="23">The %s Headquarters</t>
+    <t id="24">[author][green]**Unknown Sender**[/green][/author]Dear %s,\n\nOn behalf of my employer who will remain anonymous, I am forwarding a considerably large financial sum of %s to your account.  Consider it a token of my employer's appreciation for dealing with The Phanon Corporation's latest puppet company.  My employer's interests and yours seem to be aligned on one path or another, so I expect to be in touch with you at a future date.</t>
+    <t id="26">[author][green]**Unknown Sender**[/green][/author]Dear %s,\n\nI would like to extend my congratulations on behalf of my employer, who can only remain anonymous at this time.  It is of my employers understanding that with the defeat of the Phanon Corporation parent company, the X Universe has finally seen the last of this unbalancing menace.  As a final reward to the end of a long journey, please accept this donation of %s to your company from ours.  Take care, pilot, and farewell.</t>
+
+
+
+
+    <t id="101">TandiTech</t>
+    <t id="102">Nova Ltd.</t>
+    <t id="103">Vashire</t>
+    <t id="104">Rhayl Plex</t>
+    <t id="105">Omicron Ltd.</t>
+    <t id="106">Megax</t>
+    <t id="107">Syndex</t>
+    <t id="108">Phanon</t>
+
+    <t id="201">[author][green]TandiTech Corporation[/green][/author]Dear %s,\n\nOn Behalf of The TandiTech Corporation, a subsidiary of The Phanon Corporation, I, Kyrdall Kormal, Chairman, would like to take this opportunity to personally extend to you my warmest greetings and well wishes.  Certain sponsors have put forth a venture capital of %s to initiate our orginization.  As free-market trade law mandates, it is our duty to inform you that our company has established itself with an operation headquarters in sector %s, and will be expanding from there as our board of directors deem fit and as warranted by our financial acrual.  We would also like to offer you a friendly reminder to please keep clear of our property, including trade ships, warships, and stations, as the free market can be a difficult, demanding, and often dangerous place.  Here at TandiTech, your safety is important to us.\n\nWarmest regards,\nKyrdall Kormal</t>
+    <t id="202">[author][green]Nova Ltd. Corporation[/green][/author]Dear %s,\n\nOn Behalf of The Nova Ltd. Corporation, a subsidiary of The Phanon Corporation, I, Tastad Nova, Chairman, would like to inform you that your relations of our previous late sister company, The TandiTech Corporation, can be forgiven and forgotten.  I'm sure our business transactions will not come within each other's way this time.  To ensure our success, The Phanon Corporation has granted us a larger salary than expected, which does not include a venture capital of %s.\n\nWarmest regards,\nTastad Nova</t>
+    <t id="203">[author][green]Vashire Corporation[/green][/author]Dear %s,\n\nOn Behalf of The Vashire Corporation, a subsidiary of The Phanon Corporation, I, Klhuad, CEO, would extend my deepest regrets for any properties and assets owned by you that met an early demise at the hands of our secutiy forces.  I'm sure this misunderstanding will not come between The Phanon Corporations latest venture.  As dictated by Universal trade law, records will indicate our venture capital grant from the Phanon Corporation to be %s.\n\nWarmest regards,\nKlhuad</t>
+    <t id="204">[author][green]Rhayl Plex Corporation[/green][/author]Dear %s,\n\nOn Behalf of The Rhayl Plex Corporation, a subsidiary of The Phanon Corporation, I, Om Ido, CEO, am warning you.  I'm an old school businessmen, have attended various Teladi economic universities, and have a resume the size of a transport ship.  Venture capital from Phanon Corp. at this point is %s, but you can look that up yourself.  Stay away from our assets.\n\nWarmest regards,\nOm Ido</t>
+    <t id="205">[author][green]Omicron Ltd. Corporation[/green][/author]%s,\n\nI have very little to say to you.  The Phanon Corporation is investing %s this time around.  Stay away, or face the consequences.  I, Perdis Lhuan, CEO of The Omicron Ltd. Corporation, have taken hold of an outpost.  We've established a frontier, and you will not hinder The Phanon Corporation's ventures any further.\n\n\nPerdis Lhuan</t>
+    <t id="206">[author][green]Megax Corporation[/green][/author]%s,\n\nStay clear of our ships.  The Megax Corporation's grant of %s has no time to waste on the likes of your company.  This is a warning.\n\n\nXag Khurmagaun</t>
+    <t id="207">[author][green]Syndex Corporation[/green][/author]%s,\n\nThis is simply the obligitory message we're required to send by inter-stellar trade law.  Phanon Corporation's grant of %s, forwarded to us recently.  Nothing more, nothing less.\n\n\nNaydol Ulmankstal</t>
+    <t id="208">[author][green]The Phanon Corporation[/green][/author]%s,\n\nSo it has come to this, has it?  The full weight of The Phanon Corporation is behind the our final venture of %s.  You and your affiliates are marked as an official security threat, and will be dealt with accordingly.  Your actions will not stop our take-overs, so we have finally decided to step in, throwing our full weight behind our endeavours.\n\n\nZalex Yhulan</t>
+
+    <t id="250">[author][green]%s[/green][/author][cyan]**Broadcast Message**[/cyan]\nAs per inter-stellar tradelaw, we are issuing financial and assest statements to registered parties, including an Argon Military Threat Assesment model, as per Argon Military Registration bylaws.  All registrations are fully legel; certification provided upon request.\n\n</t>
+    <t id="251">Corporation: [red]The Phanon Corporation[/red]\n</t>
+    <t id="252">Active subsidiary: [red]%s[/red]\n\n</t>
+    <t id="253">Credit balance: [white]%s[/white]\n</t>
+    <t id="254">Liquid assets: [white]%s[/white]\n</t>
+    <t id="255">Next scheduled procurement: [white]%s[/white]\n\n</t>
+    <t id="256">Registered free agent traders: [white]%s[/white]\n</t>
+    <t id="257">Registered station sales representatives: [white]%s[/white]\n</t>
+    <t id="258">Registered factories: [white]%s[/white]\n</t>
+    <t id="259">Registered military assets: [white]%s[/white]\n</t>
+    <t id="260">AMTA Index: [white]%s[/white]</t>
+
+
+
+
+
+
+    <!--Edit Phanon Corporation's start sectors here-->
+	  <!--Unknown Sector Nu-->
+    <t id="300">11,16</t>
+	  <!--Unknown Sector Kappa-->
+    <t id="301">12,5</t>
+    <!--V Alpha-->
+    <t id="302">8,11</t>
+    <!--Y Alpha-->
+    <t id="303">18,19</t>
+    <!--Unknown Sector Beta-->
+    <t id="304">17,4</t>
+    <!--Unknown Sector Epsilon -->
+    <t id="305">2,16</t>
+    <!--Void of Opportunity-->
+    <t id="306">14,16</t>
+    <!--Veil of Delusion-->
+    <t id="307">0,13</t>
+    <!--Danna's Chance-->
+    <t id="308">9,7</t>
+    <!--Hatikvah's Faith-->
+    <t id="309">11,7</t>
+    <!--Lasting Vengance-->
+    <t id="310">20,7</t>
+    <!--Gunne's Crusade-->
+    <t id="311">4,11</t>
+    <!--Desecrated Skies-->
+    <t id="312">3,11</t>
+    <!--Edit Phanon Corporation's asset notification message delay.  Default is 240 mins.-->
+    <t id="320">240</t>
+    <!--Edit Phanon Corporation's salary multiplier.  Default is 500.  This is multiplied by the generation (1-8).-->
+    <t id="350">2500</t>
+    <!--Edit Phanon Corporation's next generation wait period.  Below is the spectrum between first generation and last generation wait times.-->
+    <t id="351">225</t>
+    <t id="352">1080</t>
+    <!--Edit Phanon Corporation's super sales modifier (multiplier for station selling).  Default is 1 x Generation-->
+    <t id="353">1</t>    
+    <!--Edit Phanon Corporation's auto-level progression.  Values are in AMTA-->
+    <t id="354">500</t>
+    <t id="355">1500</t>
+    <t id="356">2750</t>
+    <t id="357">4625</t>
+    <t id="358">7438</t>
+    <t id="359">11656</t>
+    <t id="360">17984</t>
+	
+
+
+
+
+  </page>
+</language>
+
+
+
+
+
+
+
+
+
+
