@@ -6001,8 +6001,9 @@
 	<o f="4" t="1" x="4" y="4" r="18" size="32500000" m="81201" p="-1" qtrade="100" qfight="100" qbuild="100" qthink="100">
 		<o t="2" s="244" neb="0" stars="0"/>
 		<o f="1" t="18" s="3" x="32500000" y="0" z="0" gid="3" gx="5" gy="4" gtid="2" a="-16384" b="0" g="0"/>
-		<o f="1" t="3" s="100" x="-1456742500" y="499451500" z="717909500" color="16777170"/>
-		<o t="4" s="137" x="-1211474365" y="0" z="0" color="0" fn="0"/>
+		<o f="1" t="18" s="1" x="-1231445" y="0" z="-14599610" gid="1" gx="4" gy="5" gtid="0" a="26608" b="1736" g="0"/>
+		<o f="1" t="3" s="100" x="-1092913256" y="499451500" z="-1200960278" color="16777170"/>
+		<o t="4" s="137" x="-684934607" y="0" z="-118977009" color="0" fn="0"/>
 		<o f="1" t="6" s="SS_FAC_TR_CARBO_PL_1" x="26671875" y="0" z="-2218750" r="18" a="32768" b="0" g="0">
 			<o t="23" s="1">
 				<o t="9" s="SS_SHIELD_E" n="15"/>
@@ -7763,6 +7764,7 @@
 		<o t="2" s="42" neb="0" stars="0"/>
 		<o f="1" t="18" s="1" x="1023436" y="1000000" z="-14265624" gid="1" gx="3" gy="6" gtid="0" a="32768" b="0" g="0"/>
 		<o f="1" t="18" s="2" x="-12250000" y="0" z="0" gid="2" gx="2" gy="5" gtid="3" a="16384" b="0" g="0"/>
+		<o f="1" t="18" s="3" x="13769530" y="0" z="4277342" gid="3" gx="4" gy="5" gtid="2" a="-16384" b="0" g="0"/>
 		<o f="1" t="3" s="88" x="1000461500" y="1179633000" z="-119092000" color="15456110"/>
 		<o f="1" t="4" s="169" x="724470500" y="-415183000" z="609344500" color="0" fn="0"/>
 		<o f="1" t="6" s="SS_FAC_R235" x="-515840" y="481120" z="3771460" r="3" a="32768" b="0" g="0">
@@ -7842,6 +7844,91 @@
 			</o>
 		</o>
 		<o f="1" t="7" s="SS_SH_A_OWP_1" x="881821" y="-219500" z="-10191402" r="3">
+		</o>
+	</o>
+	<o f="1" t="1" x="4" y="5" r="18" size="25000000" m="80214" p="80582559" qtrade="100" qfight="100" qbuild="100" qthink="100">
+		<o t="2" s="244" neb="0" stars="0"/>
+		<o f="1" t="18" s="2" x="-25634765" y="0" z="0" gid="2" gx="3" gy="5" gtid="3" a="16128" b="-3128" g="0"/>
+		<o f="1" t="18" s="0" x="-118406" y="0" z="25302735" gid="0" gx="4" gy="4" gtid="1" a="11064" b="-4888" g="0"/>
+		<o f="1" t="3" s="138" x="150801744" y="156365983" z="-73977421" color="16777215"/>
+		<o f="1" t="3" s="138" x="150874030" y="161761053" z="-61123505" color="16777215"/>
+		<o f="1" t="3" s="138" x="153743937" y="167331311" z="-32129937" color="16777215"/>
+		<o f="1" t="3" s="138" x="147581325" y="167324201" z="-53730878" color="16777215"/>
+		<o f="1" t="3" s="138" x="156196071" y="155796888" z="-63175948" color="16777215"/>
+		<o f="1" t="3" s="138" x="158052582" y="161782137" z="-38930950" color="16777215"/>
+		<o f="1" t="4" s="134" x="263498063" y="286688550" z="-104351040" color="0" fn="0"/>
+		<o f="1" t="6" s="SS_FAC_TR_POWER_2" x="951208" y="13986325" z="-7920930" r="18" a="-13304" b="24296" g="-29696">
+			<o t="23" s="1">
+				<o t="9" s="SS_SHIELD_E" n="11"/>
+			</o>
+		</o>
+		<o f="1" t="6" s="SS_FAC_TR_POWER_2" x="12151332" y="16381831" z="10093498" r="18" a="-13304" b="24296" g="-29696">
+			<o t="23" s="1">
+				<o t="9" s="SS_SHIELD_E" n="11"/>
+			</o>
+		</o>
+		<o f="1" t="6" s="SS_FAC_TR_POWER_1" x="12460363" y="1938284" z="3472666" r="18" a="-15427" b="25557" g="-30984">
+			<o t="23" s="1">
+				<o t="9" s="SS_SHIELD_E" n="9"/>
+			</o>
+		</o>
+		<o f="1" t="5" s="SS_DOCK_TR_MILITARY_2" x="-8996870" y="-16729677" z="8602218" r="18" a="-17408" b="0" g="0">
+			<o t="23" s="1">
+				<o t="9" s="SS_SHIELD_F" n="15"/>
+			</o>
+			<o t="23" s="8">
+				<o t="8" s="SS_LASER_EMPC"/>
+				<o t="8" s="SS_LASER_MAML"/>
+				<o t="8" s="SS_LASER_SSC"/>
+				<o t="8" s="SS_LASER_FBC"/>
+				<o t="8" s="SS_LASER_PG"/>
+				<o t="8" s="SS_LASER_APC"/>
+				<o t="8" s="SS_LASER_GRC"/>
+				<o t="8" s="SS_LASER_PAA"/>
+				<o t="9" s="SS_SHIELD_A"/>
+				<o t="9" s="SS_SHIELD_B"/>
+				<o t="9" s="SS_SHIELD_C"/>
+				<o t="9" s="SS_SHIELD_D"/>
+				<o t="9" s="SS_SHIELD_E"/>
+				<o t="10" s="SS_MISSILE_A"/>
+				<o t="10" s="SS_MISSILE_WRAITH"/>
+				<o t="10" s="SS_MISSILE_POLTERGEIST"/>
+				<o t="10" s="SS_MISSILE_SPECTRE"/>
+				<o t="10" s="SS_MISSILE_USC_BOMBER"/>
+				<o t="10" s="SS_MISSILE_USC_TORP_CAPITAL"/>
+				<o t="10" s="SS_MISSILE_USC_AF_CAPITAL"/>
+				<o t="14" s="SS_WARE_TR_F5"/>
+				<o t="14" s="SS_WARE_TR_F6"/>
+				<o t="16" s="SS_WARE_TECH209"/>
+				<o t="16" s="SS_WARE_TECH276"/>
+				<o t="16" s="SS_WARE_TECH251"/>
+				<o t="16" s="SS_WARE_TECH213"/>
+				<o t="16" s="SS_WARE_TECH246"/>
+				<o t="16" s="SS_WARE_TECH231"/>
+				<o t="16" s="SS_WARE_BOOST"/>
+				<o t="16" s="SS_WARE_SCANNER2"/>
+				<o t="16" s="SS_WARE_SW_NAV_1"/>
+				<o t="16" s="SS_WARE_SW_FIGHT_1"/>
+				<o t="16" s="SS_WARE_SW_FIGHT_2"/>
+				<o t="16" s="SS_WARE_SW_SPECIAL_1"/>
+				<o t="16" s="SS_WARE_EMERGENCY_RETREAT_DRIVE"/>
+				<o t="16" s="SS_WARE_TR_TECH7"/>
+				<o t="16" s="SS_WARE_TR_TECH8"/>
+				<o t="16" s="SS_WARE_TR_ARMS"/>
+				<o t="16" s="SS_WARE_TR_MINE"/>
+				<o t="16" s="SS_WARE_JUMPBEACON"/>
+			</o>
+		</o>
+		<o f="1" t="5" s="SS_DOCK_TR_DARKSPACE" x="22851560" y="19101560" z="-634765" r="18" a="32768" b="-2824" g="0">
+			<o t="23" s="8">
+				<o t="16" s="SS_WARE_ORBITALLASER"/>
+				<o t="16" s="SS_WARE_TECH241"/>
+				<o t="16" s="SS_WARE_WARPING"/>
+				<o t="16" s="SS_WARE_USC_LICENSE"/>
+				<o t="16" s="SS_WARE_LIFESUPPORT"/>
+				<o t="16" s="SS_WARE_SW_RSCS"/>
+				<o t="16" s="SS_WARE_JUMPDRIVE_QUANTIFIER"/>
+			</o>
 		</o>
 	</o>
 	<o t="1" x="5" y="5" r="18" size="25000000" m="81304" p="-1" qtrade="100" qfight="100" qbuild="100" qthink="100">
