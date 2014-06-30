@@ -11465,7 +11465,6 @@
 		<o f="1" t="18" s="3" x="20000000" y="0" z="-2031250" gid="3" gx="8" gy="7" gtid="2" a="-16384" b="0" g="0"/>
 		<o f="1" t="18" s="1" x="1515625" y="0" z="-21515625" gid="1" gx="7" gy="8" gtid="0" a="32768" b="0" g="0"/>
 		<o f="1" t="3" s="57" x="1013388500" y="1194874500" z="-120631000" color="8558305"/>
-		<o f="1" t="4" s="226" x="89381472" y="-312094500" z="-588963353" color="0" fn="0"/>
 		<o f="1" t="4" s="267" x="16332500" y="246035000" z="100591000" color="0" fn="0"/>
 		<o f="1" t="4" s="199" x="661632" y="-330816395" z="661632" color="0" fn="0"/>
 		<o t="20" s="SS_SPECIAL_SIGN3" x="14421195" y="486994" z="6183786" a="0" b="0" g="0" v="-1"/>
@@ -13939,6 +13938,7 @@
 				<o t="16" s="SS_WARE_TECH277"/>
 				<o t="16" s="SS_WARE_WARPING"/>
 				<o t="16" s="SS_WARE_ORECOLLECTOR"/>
+				<o t="16" s="SS_WARE_ASTEROIDTRACTORSYSTEM"/>
 				<o t="16" s="SS_WARE_JUMPDRIVE_QUANTIFIER"/>
 				<o t="16" s="SS_WARE_SW_NEW5"/>
 				<o t="16" s="SS_WARE_SW_NEW6"/>
@@ -20873,6 +20873,7 @@
 				<o t="16" s="SS_WARE_BESTSELL"/>
 				<o t="16" s="SS_WARE_WARPING"/>
 				<o t="16" s="SS_WARE_ORECOLLECTOR"/>
+				<o t="16" s="SS_WARE_ASTEROIDTRACTORSYSTEM"/>
 				<o t="16" s="SS_WARE_JUMPDRIVE_QUANTIFIER"/>
 				<o t="16" s="SS_WARE_SW_NEW5"/>
 				<o t="16" s="SS_WARE_SW_NEW6"/>
