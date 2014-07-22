@@ -65,31 +65,31 @@
 
     <!--Edit Phanon Corporation's start sectors here-->
 	  <!--Unknown Sector Nu-->
-    <t id="300">11,16</t>
+    <t id="300">3,15</t>
 	  <!--Unknown Sector Kappa-->
-    <t id="301">12,5</t>
+    <t id="301">8,16</t>
     <!--V Alpha-->
-    <t id="302">8,11</t>
+    <t id="302">11,14</t>
     <!--Y Alpha-->
-    <t id="303">18,19</t>
+    <t id="303">9,16</t>
     <!--Unknown Sector Beta-->
-    <t id="304">17,4</t>
+    <t id="304">9,7</t>
     <!--Unknown Sector Epsilon -->
-    <t id="305">2,16</t>
+    <t id="305">8,8</t>
     <!--Void of Opportunity-->
-    <t id="306">14,16</t>
+    <t id="306">12,5</t>
     <!--Veil of Delusion-->
-    <t id="307">0,13</t>
+    <t id="307">16,16</t>
     <!--Danna's Chance-->
-    <t id="308">9,7</t>
+    <t id="308">4,6</t>
     <!--Hatikvah's Faith-->
-    <t id="309">11,7</t>
+    <t id="309">6,6</t>
     <!--Lasting Vengance-->
-    <t id="310">20,7</t>
+    <t id="310">10,16</t>
     <!--Gunne's Crusade-->
-    <t id="311">4,11</t>
+    <t id="311">7,10</t>
     <!--Desecrated Skies-->
-    <t id="312">3,11</t>
+    <t id="312">8,12</t>
     <!--Edit Phanon Corporation's asset notification message delay.  Default is 240 mins.-->
     <t id="320">240</t>
     <!--Edit Phanon Corporation's salary multiplier.  Default is 500.  This is multiplied by the generation (1-8).-->
