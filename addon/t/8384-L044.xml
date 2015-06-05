@@ -24,7 +24,7 @@
     <t id="23">The %s Headquarters</t>
     <t id="24">[author][green]**Unknown Sender**[/green][/author]Dear %s,\n\nOn behalf of my employer who will remain anonymous, I am forwarding a considerably large financial sum of %s to your account.  Consider it a token of my employer's appreciation for dealing with The Phanon Corporation's latest puppet company.  My employer's interests and yours seem to be aligned on one path or another, so I expect to be in touch with you at a future date.</t>
     <t id="26">[author][green]**Unknown Sender**[/green][/author]Dear %s,\n\nI would like to extend my congratulations on behalf of my employer, who can only remain anonymous at this time.  It is of my employers understanding that with the defeat of the Phanon Corporation parent company, the X Universe has finally seen the last of this unbalancing menace.  As a final reward to the end of a long journey, please accept this donation of %s to your company from ours.  Take care, pilot, and farewell.</t>
-
+	<t id="27">[author][green]GNN[/green][/author]In a surprising turn of events, Phanon Corporation subsidiary %s was removed from office today.  While the subsidiary CEO could not be reached for comment, sources say the firing was due to a recent decline in fiscal performance.</t>
 
 
 
@@ -64,6 +64,7 @@
 
 
     <!--Edit Phanon Corporation's start sectors here-->
+<!--which are currently unused-->
 	  <!--Unknown Sector Nu-->
     <t id="300">3,15</t>
 	  <!--Unknown Sector Kappa-->
